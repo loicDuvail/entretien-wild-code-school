@@ -1,6 +1,7 @@
 # entretien-wild-code-school
 accessible via http://localhost:3000/
 type nodemon app.js in the terminal to start using web page
+
 if using on your machine, type in mysql:
 
 CREATE DATABASE entretien ;
